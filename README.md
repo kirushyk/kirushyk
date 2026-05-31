@@ -1,6 +1,6 @@
-I code in pure C and Rust, I love GStreamer and whole GNOME stack.
+Doing low-level stuff in C and Rust.
 
-I am into low-level, low-latency, high-throuput staff.
+Focused on multimedia (Live Video Streaming, Broadcasting, NLE, Image and Sound Processing, Network Video Recordings) and inference (only Computer Vision and Speech models).
 
 <!--
 **kirushyk/kirushyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
