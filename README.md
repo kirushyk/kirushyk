@@ -1,6 +1,8 @@
 Doing low-level stuff in C and Rust.
 
-Focused on multimedia (Live Video Streaming, Broadcasting, NLE, Image and Sound Processing, Network Video Recordings) and inference (only Computer Vision and Speech models).
+Focused on multimedia (Live Video Streaming, Broadcasting, NLE, Image and Sound Processing, Network Video Recorders) and inference optimization (only Computer Vision and Speech models, mostly CUDA on Nvidia Edge / Embedded Platforms).
+
+Former mobile game developer.
 
 <!--
 **kirushyk/kirushyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
