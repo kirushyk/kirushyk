@@ -1,6 +1,8 @@
 I do low-level stuff, love pure C and Rust.
+
 My passion is live video streaming, broadcast engineering and inference.
-I like when bandwidth is high and latency is low.
+
+I am into high bandwidth and low latency.
 
 <!--
 **kirushyk/kirushyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
