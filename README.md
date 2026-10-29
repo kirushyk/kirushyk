@@ -1,8 +1,6 @@
-Doing low-level stuff in C and Rust.
-
-Focused on multimedia (Live Video Streaming, Broadcasting, NLE, Image and Sound Processing, Network Video Recorders) and inference optimization (only Computer Vision and Speech models, mostly CUDA on Nvidia Edge / Embedded Platforms).
-
-Former mobile game developer.
+I do low-level stuff, love pure C and Rust.
+My passion is live video streaming, broadcast engineering and inference.
+I like when bandwidth is high and latency is low.
 
 <!--
 **kirushyk/kirushyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
